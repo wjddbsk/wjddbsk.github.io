@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기"
+title: "2019.04.23 ~ 2019.04.26의 기록"
 ---
 
 
- {% include video id="-z6OdsiapDE" provider="youtube" %}
+ {% include video id="Ewz9ZzaqN0c" provider="youtube" %}
